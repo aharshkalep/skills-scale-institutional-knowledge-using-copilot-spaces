@@ -27,14 +27,31 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Primary stakeholders:
 - Suggested timeline / milestones:
 - Quick risks & dependencies:
-- Proposed team / roles:
+- **Proposed team / roles**:
+  - Project Manager:
+  - Product Manager:
+  - Developers (# and specialties):
+  - DevOps Engineer:
+  - QA/Testing:
+  - UX Designer (if applicable):
+  - Technical Writer:
+  - Business Analyst (if applicable):
+  - Customer Support liaison:
+- **Stakeholder communication plan**:
+  - Update frequency:
+  - Communication channels:
+  - Key decision points requiring approval:
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
+- [ ] **All required roles identified and team members assigned or requested**
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
+- [ ] **Stakeholder communication plan documented** (who needs updates, when, via what channel)
+- [ ] **Cross-functional kickoff scheduled** (include PM, PdM, tech leads, UX, QA, DevOps, Technical Writer)
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
+- [ ] **Document escalation contacts** for each stakeholder group (see [Roles and Personas](octoacme-roles-and-personas.md))
 
 ## Decision Gate
 Move to planning when:
