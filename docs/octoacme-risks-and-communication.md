@@ -9,7 +9,7 @@ Maintain a simple table with clear ownership tied to roles defined in [Roles and
 - Description
 - Impact (High/Med/Low)
 - Likelihood (High/Med/Low)
-- **Owner** (specific role and person, e.g., "DevOps Engineer - Jane Smith")
+- **Owner** (specific role and person, e.g., "DevOps Engineer - [Team Member Name]")
 - Mitigation plan
 - Status
 - **Escalation contact** (if owner cannot resolve)

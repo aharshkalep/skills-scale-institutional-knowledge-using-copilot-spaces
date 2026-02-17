@@ -225,9 +225,9 @@ Business Analysts bridge business needs and technical solutions by gathering req
 
 ---
 
-## Rationale for Expanded Roles
+## Rationale for Role Definitions
 
-This document has been expanded to include UX Designer, Technical Writer, DevOps Engineer, Customer Support Specialist, and Business Analyst roles to address several key needs:
+This document defines all team roles to address several key needs. The recent expansion to include UX Designer, Technical Writer, DevOps Engineer, Customer Support Specialist, and Business Analyst roles further enhances this foundation.
 
 ### Why These Updates Are Needed
 

@@ -9,7 +9,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Align timelines, releases, and responsibilities
 
 ## Activities
-1. **Cross-functional kickoff meeting** with stakeholders and full delivery team (PM, PdM, developers, DevOps, QA, UX, Technical Writer, Business Analyst, Support liaison)
+1. **Cross-functional kickoff meeting** with stakeholders and full delivery team (see [Roles and Personas](octoacme-roles-and-personas.md) for complete role list)
 2. Create prioritized backlog with acceptance criteria
 3. Estimate scope (T-shirt sizing or story points)
 4. Define Definition of Done (DoD) with input from QA and DevOps
